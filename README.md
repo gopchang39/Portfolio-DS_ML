@@ -1,2 +1,2 @@
-# Portfolio for Data Analysis and Machine Learning 
+# Projects for Data Analysis and Machine Learning 
 
